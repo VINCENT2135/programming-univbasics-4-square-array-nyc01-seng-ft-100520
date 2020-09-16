@@ -2,7 +2,7 @@ def square_array(array)
 ra = [] 
 count = 0 
   while count < array.length 
-    # count = count + 1
+
    ra[count] = array[count] * array[count]
   puts " #{array[count]}  #{ra[count]}"
    
