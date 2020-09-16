@@ -3,7 +3,7 @@ ra = []
 count = 0 
   while count < array.length 
 
-   ra[count] = array[count] * array[count]
+   ra[count] = array[count] **
   puts " #{array[count]}  #{ra[count]}"
    
    count =  count +  1
